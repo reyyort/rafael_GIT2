@@ -1,1 +1,2 @@
-segundo texto escrito por RafaelReyes 
+segundo texto escrito por RafaelReyes
+editado por DanielRodriguez
